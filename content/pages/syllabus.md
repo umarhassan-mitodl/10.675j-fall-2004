@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -26,7 +28,7 @@ Course Objectives
 
 1.  Learn a different approach to solving scientific and engineering problems: performing quantum mechanical calculations and understanding their scope, possibilities and limitations.  
     
-2.  Be able to perform calculations during your research at MIT, in {{% resource_link "87224f50-74e3-4a6e-8048-867b8d533c10" "Practice School" %}}, and in your future work. (Several students of this class have published papers in major journals based on their projects.)  
+2.  Be able to perform calculations during your research at MIT, in [Practice School](https://cheme.mit.edu/academics/practice-school/), and in your future work. (Several students of this class have published papers in major journals based on their projects.)  
     
 3.  Gain a (partial) familiarity with the literature and be able to read it critically.  
     
@@ -47,11 +49,11 @@ There is no suitable textbook for this course. The best one still seems to be _M
 Software
 --------
 
-{{% resource_link "0918a81d-ad93-4545-a13e-33b25c96b0e0" "Gaussian03" %}}: Used to perform quantum mechanical calculations.
+[Gaussian03](http://www.gaussian.com/): Used to perform quantum mechanical calculations.
 
-{{% resource_link "0918a81d-ad93-4545-a13e-33b25c96b0e0" "GaussView" %}}: GUI, used to create job files, run jobs, and visualize output.
+[GaussView](http://www.gaussian.com/): GUI, used to create job files, run jobs, and visualize output.
 
-{{% resource_link "4774c24e-081f-4830-9522-19d586bb32d5" "CPMD" %}}: Car-Parrinello Molecular Dynamics Web site.
+[CPMD](http://www.cpmd.org/): Car-Parrinello Molecular Dynamics Web site.
 
 Hardware
 --------

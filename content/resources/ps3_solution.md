@@ -4,6 +4,8 @@ description: Problem set solution.
 file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/df35f7719764f5c4f787128b1d02db12_ps3_solution.pdf
 file_size: 170832
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

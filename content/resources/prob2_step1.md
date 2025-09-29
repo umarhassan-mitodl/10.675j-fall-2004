@@ -4,6 +4,8 @@ description: Problem 2 Step 1 flie for Homework 3.
 file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/743d03ddbdeeed4789da3f7a49a8b3bf_prob2_step1.pdf
 file_size: 32805
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
