@@ -4,8 +4,6 @@ description: Outline of topics covered in Lecture 21.
 file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/768956a1359a2d7481dedb5ad5f1228b_Lec21.pdf
 file_size: 141633
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

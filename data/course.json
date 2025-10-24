@@ -38,7 +38,6 @@
     "website": "10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004"
   },
   "course_title": "Computational Quantum Mechanics of Molecular and Extended Systems",
-  "hide_download": true,
   "course_description": "The theoretical frameworks of Hartree-Fock theory and density functional theory are presented in this course as approximate methods to solve the many-electron problem. A variety of ways to incorporate electron correlation are discussed. The application of these techniques to calculate the reactivity and spectroscopic properties of chemical systems, in addition to the thermodynamics and kinetics of chemical processes, is emphasized. This course also focuses on cutting edge methods to sample complex hypersurfaces, for reactions in liquids, catalysts and biological systems.\n",
   "department_numbers": [
     "10",
@@ -50,7 +49,6 @@
     "content": "714c64d0-4baf-d660-a170-c9672dfe6d46",
     "website": "10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments"

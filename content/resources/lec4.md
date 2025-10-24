@@ -4,8 +4,6 @@ description: Outline of topics covered in Lecture 4.
 file: /courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/f0572552a290e96f8de4baacc507aab0_Lec4.pdf
 file_size: 181077
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
